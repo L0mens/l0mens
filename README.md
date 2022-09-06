@@ -14,8 +14,6 @@
 
 - 🌱 Still learning in all domains  
   
-
-- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
