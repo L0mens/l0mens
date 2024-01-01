@@ -9,7 +9,7 @@
 - 👨‍🏫 I am a mentor @[OpenClassrooms](https://openclassrooms.com/fr)  
   
 
-- 👨‍🏫 I am a teacher at IUT Dijon Computer Science department  
+- 👨‍🏫 I am a teacher at IUT Dijon Computer Science department and ESEO Dijon
   
 
 - 🌱 Still learning in all domains  
